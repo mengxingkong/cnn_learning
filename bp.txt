@@ -1,0 +1,7 @@
+
+反向传播算法推导：http://deeplearning.stanford.edu/wiki/index.php/%E5%8F%8D%E5%90%91%E4%BC%A0%E5%AF%BC%E7%AE%97%E6%B3%
+
+书：automatic speech recognition (chapter 4)
+
+论文：Rumelhart, D.E., Hintont, G.E.,Williams, R.J.: Learning representations by back-propagating
+errors. Nature 323(6088), 533–536 (1986)

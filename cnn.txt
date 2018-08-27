@@ -1,0 +1,17 @@
+卷积神经网络的直观解释：
+英文连接：https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+中文连接：http://www.hackcv.com/index.php/archives/104/
+
+书：
+A guide to convolution arithmetic for deep learnin.pdf
+
+cs231n链接：
+http://cs231n.github.io/convolutional-networks/ 
+
+论文：
+AlexNet:ImageNet Classification with Deep Convolutional Neural Networks
+ZF Net :Visualizing and Understanding Convolutional Networks
+VGG Net:Very Deep Convolutional Networks for Large-Scale Image Recognition
+
+实例-机器之心 github地址：
+https://github.com/jiqizhixin/ML-Tutorial-Experiment
