@@ -1,1 +1,1 @@
-begining of CNN learning
+beginning of CNN learning
